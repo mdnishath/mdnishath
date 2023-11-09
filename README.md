@@ -1,9 +1,3 @@
-<div align="left">
-  <img height="200" src="https://github.com/mdnishath/mdnishath/blob/main/profile.png?raw=true"  />
-</div>
-
-###
-
 <h1 align="left">Hi I'm Md Nishath Khandakar</h1>
 
 ###
