@@ -12,7 +12,7 @@
 <!-- ===================== TYPING HEADLINE ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%80%A2+2%2B+Years;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Turning+ideas+into+production-ready+web+apps;Available+for+Freelance+%26+Contract+Work)](https://nishath.com.bd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%80%A2+2%2B+Years;AI-Powered+Development+with+Claude+%26+AI+Tools+%F0%9F%A4%96;Fast+Learner+%E2%80%A2+Quick+to+Adapt+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Available+for+Freelance+%26+Contract+Work)](https://nishath.com.bd)
 
 <!-- ===================== STATUS BADGES ===================== -->
 <a href="https://www.upwork.com/freelancers/mdnishathk">
@@ -33,12 +33,14 @@ const nishath = {
   experience:  "2+ years (MERN Stack)",
   location:    "Bangladesh 🇧🇩  (working worldwide, remote)",
   focus:       ["Scalable web apps", "Clean UI/UX", "APIs & Automation"],
+  aiPowered:   "Ship faster with Claude Code & modern AI tools 🤖",
+  superpower:  "Fast learner — adapt to any new stack quickly ⚡",
   currently:   "Building production apps for startups & agencies",
   openTo:      ["Freelance", "Contract", "Long-term collaboration"],
 };
 ```
 
-I'm **Nishath** — a Full Stack Developer who turns ideas into fast, modern, production-ready web applications. From **pixel-perfect landing pages** to **complex dashboards, REST/GraphQL APIs, and automation tools**, I deliver clean, maintainable code — on time, with clear communication. Whether you're a startup founder, an agency, or a business owner, **I help you ship.**
+I'm **Nishath** — a Full Stack Developer who turns ideas into fast, modern, production-ready web applications. From **pixel-perfect landing pages** to **complex dashboards, REST/GraphQL APIs, and automation tools**, I deliver clean, maintainable code — on time, with clear communication. I build **AI-powered** — using Claude Code and modern AI tooling to work faster and smarter — and as a **fast learner**, I quickly pick up whatever new tech your project needs. Whether you're a startup founder, an agency, or a business owner, **I help you ship.**
 
 ---
 
@@ -56,6 +58,10 @@ I'm **Nishath** — a Full Stack Developer who turns ideas into fast, modern, pr
   <tr>
     <td>🚀</td><td><b>Deployment & DevOps</b><br/>Docker, Vercel, Firebase, Google Cloud</td>
     <td>🔍</td><td><b>Performance & SEO</b><br/>Fast load, clean Lighthouse scores, best practices</td>
+  </tr>
+  <tr>
+    <td>🤖</td><td><b>AI-Powered Development</b><br/>Claude Code workflow, LLM & chatbot integrations</td>
+    <td>⚡</td><td><b>Rapid Delivery</b><br/>Fast learner — quick to adapt &amp; ship without cutting corners</td>
   </tr>
 </table>
 
@@ -94,6 +100,13 @@ I'm **Nishath** — a Full Stack Developer who turns ideas into fast, modern, pr
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### AI-Powered Development
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM%20%26%20AI%20APIs-FF6F61?style=for-the-badge&logo=openaigym&logoColor=white)
 
 ---
 
@@ -173,6 +186,8 @@ Explore more live projects, case studies, and client work on my website.
 ## ✅ Why Hire Me
 
 - 🎯 **2+ years** of professional, full-stack MERN experience
+- 🤖 **AI-powered workflow** — I use Claude Code & modern AI tools to build faster and smarter, without cutting quality
+- 📚 **Fast learner** — I quickly master new stacks, APIs, and tools your project demands
 - 🧼 **Clean, maintainable, well-documented** code — easy to scale and hand off
 - 🗣️ **Clear communication** and reliable, **on-time delivery**
 - 🔄 **End-to-end ownership** — from UI design to API to deployment
@@ -184,20 +199,21 @@ Explore more live projects, case studies, and client work on my website.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mdnishath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnishath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnishath&theme=tokyonight&hide_border=true" alt="streak"/>
+<a href="https://github.com/mdnishath?tab=followers">
+  <img src="https://img.shields.io/github/followers/mdnishath?style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=1E293B&label=FOLLOWERS" alt="followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/mdnishath?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repos-25%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="repos"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mdnishath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnishath&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak stats"/>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdnishath&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdnishath&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="contribution activity graph"/>
 
 </div>
 
