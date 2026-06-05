@@ -12,7 +12,7 @@
 <!-- ===================== TYPING HEADLINE ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%80%A2+2%2B+Years;AI-Powered+Development+with+Claude+%26+AI+Tools+%F0%9F%A4%96;Fast+Learner+%E2%80%A2+Quick+to+Adapt+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Available+for+Freelance+%26+Contract+Work)](https://nishath.com.bd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%80%A2+6%2B+Years;AI-Powered+Development+with+Claude+%26+AI+Tools+%F0%9F%A4%96;Fast+Learner+%E2%80%A2+Quick+to+Adapt+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Available+for+Freelance+%26+Contract+Work)](https://nishath.com.bd)
 
 <!-- ===================== STATUS BADGES ===================== -->
 <a href="https://www.upwork.com/freelancers/mdnishathk">
@@ -30,7 +30,7 @@
 ```typescript
 const nishath = {
   role:        "Full Stack Web Developer",
-  experience:  "2+ years (MERN Stack)",
+  experience:  "6+ years (MERN Stack)",
   location:    "Bangladesh 🇧🇩  (working worldwide, remote)",
   focus:       ["Scalable web apps", "Clean UI/UX", "APIs & Automation"],
   aiPowered:   "Ship faster with Claude Code & modern AI tools 🤖",
@@ -185,7 +185,7 @@ Explore more live projects, case studies, and client work on my website.
 
 ## ✅ Why Hire Me
 
-- 🎯 **2+ years** of professional, full-stack MERN experience
+- 🎯 **6+ years** of professional, full-stack MERN experience
 - 🤖 **AI-powered workflow** — I use Claude Code & modern AI tools to build faster and smarter, without cutting quality
 - 📚 **Fast learner** — I quickly master new stacks, APIs, and tools your project demands
 - 🧼 **Clean, maintainable, well-documented** code — easy to scale and hand off
