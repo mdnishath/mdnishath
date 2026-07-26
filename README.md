@@ -5,14 +5,14 @@
 <!-- ============================================================= -->
 
 <!-- ===================== HEADER BANNER ====================== -->
-<a href="https://nishath.com.bd">
+<a href="https://mdnishath.com">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Md%20Nishath%20Khandakar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=54&descSize=18" width="100%" alt="header"/>
 </a>
 
 <!-- ===================== TYPING HEADLINE ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%80%A2+6%2B+Years;AI-Powered+Development+with+Claude+%26+AI+Tools+%F0%9F%A4%96;Fast+Learner+%E2%80%A2+Quick+to+Adapt+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Available+for+Freelance+%26+Contract+Work)](https://nishath.com.bd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%80%A2+6%2B+Years;AI-Powered+Development+with+Claude+%26+AI+Tools+%F0%9F%A4%96;Fast+Learner+%E2%80%A2+Quick+to+Adapt+%E2%9A%A1;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Available+for+Freelance+%26+Contract+Work)](https://mdnishath.com)
 
 <!-- ===================== STATUS BADGES ===================== -->
 <a href="https://www.upwork.com/freelancers/mdnishathk">
@@ -175,7 +175,7 @@ Explore more live projects, case studies, and client work on my website.
 
 `Web` · `Portfolio`
 
-[![Website](https://img.shields.io/badge/nishath.com.bd-7C3AED?style=flat-square&logo=google-chrome&logoColor=white)](https://nishath.com.bd)
+[![Website](https://img.shields.io/badge/nishath.com.bd-7C3AED?style=flat-square&logo=google-chrome&logoColor=white)](https://mdnishath.com)
 
 </td>
   </tr>
@@ -234,7 +234,7 @@ Explore more live projects, case studies, and client work on my website.
 <a href="https://www.upwork.com/freelancers/mdnishathk">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="upwork"/>
 </a>
-<a href="https://nishath.com.bd">
+<a href="https://mdnishath.com">
   <img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
 </a>
 <a href="https://twitter.com/md_nishath">
