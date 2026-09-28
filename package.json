@@ -1,0 +1,12 @@
+{
+  "name": "mdnishath-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:static": "node scripts/build-static.mjs",
+    "build:stats": "node scripts/build-stats.mjs"
+  },
+  "devDependencies": {
+    "simple-icons": "^15.0.0"
+  }
+}

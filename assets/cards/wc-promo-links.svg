@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 588 286" width="588" height="286" role="img" aria-label="WC Promo Links">
+<defs>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#131C33"/><stop offset="1" stop-color="#0A1020"/></linearGradient>
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="588" height="272" rx="20"/></clipPath>
+<radialGradient id="gl"><stop offset="0" stop-color="#FBBF24" stop-opacity="1"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+.k{font:700 12.5px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace;fill:#CBD5E1;letter-spacing:1px}
+.t{font:800 25px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:#F1F5F9;letter-spacing:-.3px}
+.d{font:400 16.5px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:#94A3B8}
+.tg{font:600 13.5px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace;fill:#CBD5E1}
+.f{font:500 13.5px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace;fill:#64748B}
+.glow{animation:glow 7s ease-in-out infinite}
+.arrow{animation:nudge 2.4s ease-in-out infinite}
+.dot{animation:pulse 2s ease-out infinite}
+@keyframes glow{0%,100%{opacity:.22}50%{opacity:.4}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+@keyframes pulse{0%{r:4;opacity:.8}100%{r:11;opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#c)">
+<rect width="588" height="272" fill="url(#card)"/>
+<circle class="glow" cx="568" cy="-10" r="260" fill="url(#gl)"/>
+<rect width="588" height="3" fill="url(#top)"/>
+<rect x="28" y="30" width="52" height="52" rx="15" fill="#FBBF24" fill-opacity=".14" stroke="#FBBF24" stroke-opacity=".5"/>
+<g transform="translate(42 44)"><path d="M20.6 13.4 13.4 20.6a2 2 0 0 1-2.8 0L2 12V2h10l8.6 8.6a2 2 0 0 1 0 2.8z M7 7h.01" fill="none" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(453 42)">
+<rect width="107" height="28" rx="14" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".14"/>
+<text class="k" x="12" y="18.5">OPEN SOURCE</text>
+</g>
+<text class="t" x="28" y="122">WC Promo Links</text>
+<text class="d" x="28" y="152">Share a link and everyone who reaches your store through it</text><text class="d" x="28" y="176">gets your coupon applied to cart and checkout automatically.</text>
+<g transform="translate(28 220)"><rect width="48" height="28" rx="14" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".35"/><text class="tg" x="24" y="18.5" text-anchor="middle">PHP</text></g><g transform="translate(84 220)"><rect width="113" height="28" rx="14" fill="#FBBF24" fill-opacity=".1" stroke="#FBBF24" stroke-opacity=".35"/><text class="tg" x="56.5" y="18.5" text-anchor="middle">WooCommerce</text></g>
+<g transform="translate(536 234)">
+<circle r="17" fill="#FBBF24" fill-opacity=".14" stroke="#FBBF24" stroke-opacity=".5"/>
+<g class="arrow"><path d="M-7 0h12 M1 -5l5 5-5 5" fill="none" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<rect x=".75" y=".75" width="586.5" height="270.5" rx="20" fill="none" stroke="#243049" stroke-width="1.5"/>
+</g>
+</svg>

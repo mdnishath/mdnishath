@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="Have a project in mind? Let's build it together.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1147"/><stop offset=".5" stop-color="#0B1020"/><stop offset="1" stop-color="#06263A"/></linearGradient>
+<linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#FFFFFF" fill-opacity=".1"/></pattern>
+<clipPath id="c"><rect width="1200" height="250" rx="26"/></clipPath>
+</defs>
+<style>
+.k{font:700 14px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace;fill:#22D3EE;letter-spacing:3px}
+.h{font:800 50px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:url(#t);letter-spacing:-1px}
+.s{font:400 20px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:#CBD5E1}
+.a{animation:a 14s ease-in-out infinite}.b{animation:b 18s ease-in-out infinite}
+@keyframes a{0%,100%{transform:translate(0,0)}50%{transform:translate(200px,40px)}}
+@keyframes b{0%,100%{transform:translate(0,0)}50%{transform:translate(-220px,-30px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#c)">
+<rect width="1200" height="250" fill="url(#bg)"/>
+<g filter="url(#blur)" opacity=".6"><circle class="a" cx="180" cy="40" r="150" fill="#8B5CF6"/><circle class="b" cx="1040" cy="230" r="160" fill="#0EA5E9"/></g>
+<rect width="1200" height="250" fill="url(#dots)"/>
+<text class="k" x="600" y="70" text-anchor="middle">LET'S WORK TOGETHER</text>
+<text class="h" x="600" y="134" text-anchor="middle">Have a project in mind?</text>
+<text class="s" x="600" y="180" text-anchor="middle">Freelance, contract or long-term — I reply within a day.</text>
+<rect x=".75" y=".75" width="1198.5" height="248.5" rx="26" fill="none" stroke="#FFFFFF" stroke-opacity=".12" stroke-width="1.5"/>
+</g>
+</svg>

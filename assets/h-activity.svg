@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="GitHub Activity">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
+<linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED" stop-opacity=".7"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="420" y="0" width="780" height="96"/></clipPath>
+</defs>
+<style>
+.n{font:700 17px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace;fill:#7C3AED}
+.t{font:800 36px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:url(#g);letter-spacing:-.5px}
+.s{font:500 16px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:#64748B}
+.sw{animation:sw 4.5s ease-in-out infinite}
+@keyframes sw{0%{transform:translateX(0)}100%{transform:translateX(1200px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="0" y="12" width="52" height="34" rx="10" fill="#7C3AED" fill-opacity=".12" stroke="#7C3AED" stroke-opacity=".45"/>
+<text class="n" x="26" y="35" text-anchor="middle">07</text>
+<text class="t" x="70" y="42">GitHub Activity</text>
+<text class="s" x="71" y="72">Refreshed automatically every day</text>
+<rect x="420" y="29" width="780" height="2" rx="1" fill="url(#l)"/>
+<g clip-path="url(#c)"><rect class="sw" x="260" y="28" width="160" height="4" rx="2" fill="url(#s)"/></g>
+</svg>

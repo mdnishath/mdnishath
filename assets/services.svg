@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 488" width="1200" height="488" role="img" aria-label="What I do">
+<defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#131C33"/><stop offset="1" stop-color="#0A1020"/></linearGradient>
+<clipPath id="cc"><rect width="384" height="232" rx="20"/></clipPath><radialGradient id="gl0"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient><radialGradient id="gl1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".28"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient><radialGradient id="gl2"><stop offset="0" stop-color="#F472B6" stop-opacity=".28"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></radialGradient><radialGradient id="gl3"><stop offset="0" stop-color="#34D399" stop-opacity=".28"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient><radialGradient id="gl4"><stop offset="0" stop-color="#FBBF24" stop-opacity=".28"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient><radialGradient id="gl5"><stop offset="0" stop-color="#60A5FA" stop-opacity=".28"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient></defs>
+<style>
+.t{font:700 23px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:#F1F5F9}
+.d{font:400 17px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif;fill:#94A3B8}
+.sweep{animation:sweep 8s linear infinite}
+@keyframes sweep{from{stroke-dashoffset:1382}to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g transform="translate(0 0)">
+<rect width="384" height="232" rx="20" fill="url(#card)"/>
+<g clip-path="url(#cc)"><circle cx="374" cy="0" r="210" fill="url(#gl0)"/></g>
+<rect x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#243049" stroke-width="1.5"/>
+<rect class="sweep" style="animation-delay:0s" x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" stroke-dasharray="150 1232" pathLength="1382"/>
+<rect x="28" y="28" width="56" height="56" rx="16" fill="#8B5CF6" fill-opacity=".14" stroke="#8B5CF6" stroke-opacity=".5"/>
+<g transform="translate(44 44)"><path d="M12 2 2 7l10 5 10-5-10-5z M2 17l10 5 10-5 M2 12l10 5 10-5" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="t" x="28" y="126">Full-Stack Web Apps</text>
+<text class="d" x="28" y="158">React, Next.js, Node.js, Express,</text><text class="d" x="28" y="183">MongoDB, PostgreSQL and Supabase — end</text><text class="d" x="28" y="208">to end.</text>
+</g><g transform="translate(408 0)">
+<rect width="384" height="232" rx="20" fill="url(#card)"/>
+<g clip-path="url(#cc)"><circle cx="374" cy="0" r="210" fill="url(#gl1)"/></g>
+<rect x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#243049" stroke-width="1.5"/>
+<rect class="sweep" style="animation-delay:-1.3s" x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-dasharray="150 1232" pathLength="1382"/>
+<rect x="28" y="28" width="56" height="56" rx="16" fill="#22D3EE" fill-opacity=".14" stroke="#22D3EE" stroke-opacity=".5"/>
+<g transform="translate(44 44)"><path d="M3 17l6-6 4 4 8-8 M14 7h7v7" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="t" x="28" y="126">Business Sites &amp; SEO</text>
+<text class="d" x="28" y="158">Fast, responsive, lead-generating</text><text class="d" x="28" y="183">websites with clean Lighthouse scores.</text>
+</g><g transform="translate(816 0)">
+<rect width="384" height="232" rx="20" fill="url(#card)"/>
+<g clip-path="url(#cc)"><circle cx="374" cy="0" r="210" fill="url(#gl2)"/></g>
+<rect x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#243049" stroke-width="1.5"/>
+<rect class="sweep" style="animation-delay:-2.6s" x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#F472B6" stroke-width="2" stroke-linecap="round" stroke-dasharray="150 1232" pathLength="1382"/>
+<rect x="28" y="28" width="56" height="56" rx="16" fill="#F472B6" fill-opacity=".14" stroke="#F472B6" stroke-opacity=".5"/>
+<g transform="translate(44 44)"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z M3.3 7 12 12l8.7-5 M12 22V12" fill="none" stroke="#F472B6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="t" x="28" y="126">WordPress &amp; WooCommerce</text>
+<text class="d" x="28" y="158">Custom plugins, headless WordPress and</text><text class="d" x="28" y="183">WPGraphQL storefronts.</text>
+</g><g transform="translate(0 256)">
+<rect width="384" height="232" rx="20" fill="url(#card)"/>
+<g clip-path="url(#cc)"><circle cx="374" cy="0" r="210" fill="url(#gl3)"/></g>
+<rect x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#243049" stroke-width="1.5"/>
+<rect class="sweep" style="animation-delay:-3.9000000000000004s" x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#34D399" stroke-width="2" stroke-linecap="round" stroke-dasharray="150 1232" pathLength="1382"/>
+<rect x="28" y="28" width="56" height="56" rx="16" fill="#34D399" fill-opacity=".14" stroke="#34D399" stroke-opacity=".5"/>
+<g transform="translate(44 44)"><path d="M4 3h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z M8 21h8 M12 17v4" fill="none" stroke="#34D399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="t" x="28" y="126">Desktop Apps &amp; Automation</text>
+<text class="d" x="28" y="158">Electron apps with auto-update, plus</text><text class="d" x="28" y="183">Python and Playwright automation.</text>
+</g><g transform="translate(408 256)">
+<rect width="384" height="232" rx="20" fill="url(#card)"/>
+<g clip-path="url(#cc)"><circle cx="374" cy="0" r="210" fill="url(#gl4)"/></g>
+<rect x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#243049" stroke-width="1.5"/>
+<rect class="sweep" style="animation-delay:-5.2s" x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" stroke-dasharray="150 1232" pathLength="1382"/>
+<rect x="28" y="28" width="56" height="56" rx="16" fill="#FBBF24" fill-opacity=".14" stroke="#FBBF24" stroke-opacity=".5"/>
+<g transform="translate(44 44)"><path d="M4 2h16a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z M4 14h16a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2z M6 6h.01 M6 18h.01" fill="none" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="t" x="28" y="126">APIs &amp; Backends</text>
+<text class="d" x="28" y="158">REST and GraphQL APIs, authentication,</text><text class="d" x="28" y="183">payments and database design.</text>
+</g><g transform="translate(816 256)">
+<rect width="384" height="232" rx="20" fill="url(#card)"/>
+<g clip-path="url(#cc)"><circle cx="374" cy="0" r="210" fill="url(#gl5)"/></g>
+<rect x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#243049" stroke-width="1.5"/>
+<rect class="sweep" style="animation-delay:-6.5s" x=".75" y=".75" width="382.5" height="230.5" rx="20" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-dasharray="150 1232" pathLength="1382"/>
+<rect x="28" y="28" width="56" height="56" rx="16" fill="#60A5FA" fill-opacity=".14" stroke="#60A5FA" stroke-opacity=".5"/>
+<g transform="translate(44 44)"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9L12 3z M19 15l.9 2.1L22 18l-2.1.9L19 21l-.9-2.1L16 18l2.1-.9L19 15z" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text class="t" x="28" y="126">AI Integrations</text>
+<text class="d" x="28" y="158">MCP servers, LLM integrations, Claude</text><text class="d" x="28" y="183">Code skills and developer tooling.</text>
+</g>
+</svg>
