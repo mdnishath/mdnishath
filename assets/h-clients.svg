@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="Client Work">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="1200" height="96" role="img" aria-label="Featured Work">
 <defs>
 <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
 <linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED" stop-opacity=".7"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/></linearGradient>
 <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
-<clipPath id="c"><rect x="334" y="0" width="866" height="96"/></clipPath>
+<clipPath id="c"><rect x="377" y="0" width="823" height="96"/></clipPath>
 </defs>
 <style>
 .n{font:700 17px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace;fill:#7C3AED}
@@ -15,8 +15,8 @@
 </style>
 <rect x="0" y="12" width="52" height="34" rx="10" fill="#7C3AED" fill-opacity=".12" stroke="#7C3AED" stroke-opacity=".45"/>
 <text class="n" x="26" y="35" text-anchor="middle">06</text>
-<text class="t" x="70" y="42">Client Work</text>
-<text class="s" x="71" y="72">Live websites built for real businesses</text>
-<rect x="334" y="29" width="866" height="2" rx="1" fill="url(#l)"/>
-<g clip-path="url(#c)"><rect class="sw" x="174" y="28" width="160" height="4" rx="2" fill="url(#s)"/></g>
+<text class="t" x="70" y="42">Featured Work</text>
+<text class="s" x="71" y="72">Live projects you can open right now</text>
+<rect x="377" y="29" width="823" height="2" rx="1" fill="url(#l)"/>
+<g clip-path="url(#c)"><rect class="sw" x="217" y="28" width="160" height="4" rx="2" fill="url(#s)"/></g>
 </svg>

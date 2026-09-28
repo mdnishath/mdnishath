@@ -8,7 +8,7 @@
 
 <img src="assets/terminal.svg" width="100%" alt="Nishath — full stack developer with 6+ years in production. Focus: scalable web apps, clean UI/UX, APIs, desktop and automation. Open to freelance, contract and long-term collaboration."/>
 
-I'm **Nishath**, a full stack developer from Bangladesh working remotely with clients worldwide. I turn ideas into fast, production-ready software — **SEO-focused business websites**, **dashboards and APIs**, **WordPress plugins** and **Electron desktop apps** — with clean code, clear communication and on-time delivery.
+I'm **Nishath**, author of a [WordPress.org plugin](https://wordpress.org/plugins/autocomplete-google-address/) running on 2,000+ sites and a full stack developer from Bangladesh working remotely with clients worldwide. I turn ideas into fast, production-ready software — **SEO-focused business websites**, **dashboards and APIs**, **WordPress plugins** and **Electron desktop apps** — with clean code, clear communication and on-time delivery.
 
 <br/>
 
@@ -27,12 +27,12 @@ I'm **Nishath**, a full stack developer from Bangladesh working remotely with cl
 <img src="assets/h-opensource.svg" width="100%" alt="Open Source"/>
 
 <p>
+  <a href="https://wordpress.org/plugins/autocomplete-google-address/"><img src="assets/cards/autocomplete-google-address.svg" width="49.5%" alt="Autocomplete Google Address — WordPress.org plugin with 2,000+ active installs"/></a>
   <a href="https://github.com/mdnishath/wp-ultra-mcp"><img src="assets/cards/wp-ultra-mcp.svg" width="49.5%" alt="WP Ultra MCP — turn any WordPress site into an MCP server for AI clients"/></a>
   <a href="https://github.com/mdnishath/headless-ecommerce-boilerplate"><img src="assets/cards/headless-ecommerce.svg" width="49.5%" alt="Headless E-commerce Boilerplate — Next.js 15 storefront on headless WooCommerce"/></a>
   <a href="https://github.com/mdnishath/pre-launch-security-audit"><img src="assets/cards/security-audit.svg" width="49.5%" alt="Pre-Launch Security Audit — five-phase audit skill for Claude Code"/></a>
   <a href="https://github.com/mdnishath/wc-promo-links"><img src="assets/cards/wc-promo-links.svg" width="49.5%" alt="WC Promo Links — auto-apply WooCommerce coupons from a shared link"/></a>
   <a href="https://github.com/mdnishath/md-task-tracker"><img src="assets/cards/md-task-tracker.svg" width="49.5%" alt="MD Task Tracker — turn any Markdown file into a clickable task tracker"/></a>
-  <a href="https://github.com/mdnishath?tab=repositories"><img src="assets/cards/more.svg" width="49.5%" alt="Explore all repositories"/></a>
 </p>
 
 <br/>
@@ -48,15 +48,19 @@ I'm **Nishath**, a full stack developer from Bangladesh working remotely with cl
 
 <br/>
 
-<img src="assets/h-clients.svg" width="100%" alt="Client Work"/>
+<img src="assets/h-clients.svg" width="100%" alt="Featured Work"/>
 
 <p>
+  <a href="https://troobiolabs-web.vercel.app"><img src="assets/cards/troobiolabs.svg" width="49.5%" alt="TROO Bio-Labs — headless e-commerce storefront, live site"/></a>
+  <a href="https://lazar-couverture-27.vercel.app"><img src="assets/cards/lazar-couverture-27.svg" width="49.5%" alt="Lazar Couverture 27 — 86-page roofing website, live site"/></a>
+  <a href="https://strategimmo.vercel.app"><img src="assets/cards/strategimmo.svg" width="49.5%" alt="STRATEGiMMO — immersive 3D estate agency concept, live site"/></a>
+  <a href="https://jourdain-metallerie.vercel.app"><img src="assets/cards/jourdain-metallerie.svg" width="49.5%" alt="Jourdain Métallerie — immersive 3D website concept, live site"/></a>
+  <a href="https://mypeptideguide-ai.vercel.app"><img src="assets/cards/mypeptideguide.svg" width="49.5%" alt="MyPeptideGuide.ai — evidence guide, live site"/></a>
+  <a href="https://campus-revenu.vercel.app"><img src="assets/cards/campus-revenu.svg" width="49.5%" alt="Campus Revenu — student income platform, live site"/></a>
   <a href="https://www.couverturejjm.com"><img src="assets/cards/couverture-jjm.svg" width="49.5%" alt="Couverture J.J.M — live at couverturejjm.com"/></a>
   <a href="https://koron-podolsky.vercel.app"><img src="assets/cards/koron-podolsky.svg" width="49.5%" alt="Koron and Podolsky, LLP — live site"/></a>
   <a href="https://peptidetracker-web-sage.vercel.app"><img src="assets/cards/peptidetracker.svg" width="49.5%" alt="PeptideTracker — live site"/></a>
   <a href="https://les-jardins-du-val-doise.vercel.app"><img src="assets/cards/jardins-val-doise.svg" width="49.5%" alt="Les Jardins du Val-d'Oise — live site"/></a>
-  <a href="https://ll-couverture-website.vercel.app"><img src="assets/cards/ll-couverture.svg" width="49.5%" alt="L.L Couverture — live site"/></a>
-  <a href="https://github.com/mdnishath/location-benne-expresse"><img src="assets/cards/location-benne.svg" width="49.5%" alt="Location Benne Expresse — source code"/></a>
 </p>
 
 <br/>

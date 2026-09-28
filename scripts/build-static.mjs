@@ -341,6 +341,12 @@ const ICONS = {
   scale: "M12 3v18 M5 21h14 M5 7l-3 7a4 4 0 0 0 6 0L5 7z M19 7l-3 7a4 4 0 0 0 6 0l-3-7z M4 7h16",
   activity: "M22 12h-4l-3 9L9 3l-3 9H2",
   leaf: "M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2 2 4.2 2 8 0 5.5-4.8 10-10 10z M2 21c0-3 1.9-5.4 5.1-6",
+  flask: "M9 2h6 M10 2v6L4.5 18a2 2 0 0 0 1.7 3h11.6a2 2 0 0 0 1.7-3L14 8V2 M7 15h10",
+  building: "M3 21h18 M5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16 M9 7h2 M13 7h2 M9 11h2 M13 11h2 M9 15h2 M13 15h2",
+  tool: "M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z",
+  pin: "M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z M12 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6z",
+  book: "M4 19.5A2.5 2.5 0 0 1 6.5 17H20 M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z",
+  cap: "M22 10 12 5 2 10l10 5 10-5z M6 12v5c3 3 9 3 12 0v-5",
   truck: "M1 3h15v13H1z M16 8h4l3 3v5h-7z M5.5 21a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z M18.5 21a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z",
 };
 
@@ -402,24 +408,28 @@ function card({ slug, kind, title, desc, tags, color, icon, foot, live }) {
 }
 
 const CARDS = [
+  { slug: "autocomplete-google-address", kind: "WORDPRESS.ORG", live: true, title: "Autocomplete Google Address", icon: "pin", color: C.green, tags: ["2,000+ installs", "WordPress", "WooCommerce"], desc: "Google Places address autocomplete for any WordPress form — WooCommerce, Contact Form 7, WPForms, Gravity Forms and Elementor." },
   { slug: "wp-ultra-mcp", kind: "OPEN SOURCE", title: "WP Ultra MCP", icon: "plug", color: C.violet, tags: ["PHP", "WordPress", "MCP"], desc: "Turns any WordPress site into an MCP server for AI clients — files, SQL, WP-CLI, content and declarative custom abilities." },
   { slug: "headless-ecommerce", kind: "OPEN SOURCE", title: "Headless E-commerce Boilerplate", icon: "cart", color: C.cyan, tags: ["Next.js 15", "React 19", "WooGraphQL"], desc: "White-label storefront on a headless WooCommerce backend. Multi-client, i18n and multi-currency out of the box." },
   { slug: "security-audit", kind: "OPEN SOURCE", title: "Pre-Launch Security Audit", icon: "shield", color: C.pink, tags: ["Claude Code", "Security"], desc: "Five-phase audit skill that catches leaked secrets, PII leaks, IDOR, injection, auth and payment-logic flaws before launch." },
   { slug: "wc-promo-links", kind: "OPEN SOURCE", title: "WC Promo Links", icon: "tag", color: C.amber, tags: ["PHP", "WooCommerce"], desc: "Share a link and everyone who reaches your store through it gets your coupon applied to cart and checkout automatically." },
-  { slug: "md-task-tracker", kind: "OPEN SOURCE", title: "MD Task Tracker", icon: "check", color: C.green, tags: ["JavaScript", "Windows"], desc: "Turn any Markdown file into a clickable task tracker. Portable Windows app — ticks write straight back into the .md file." },
-  { slug: "more", kind: "GITHUB", title: "Explore all repositories", icon: "grid", color: "#60A5FA", tags: ["80+ repos", "2020 → now"], desc: "Web apps, APIs, starters, plugins and experiments — browse everything I have published on GitHub." },
+  { slug: "md-task-tracker", kind: "OPEN SOURCE", title: "MD Task Tracker", icon: "check", color: "#60A5FA", tags: ["JavaScript", "Windows"], desc: "Turn any Markdown file into a clickable task tracker. Portable Windows app — ticks write straight back into the .md file." },
 
   { slug: "nexus-v4", kind: "DESKTOP APP", title: "Nexus V4", icon: "rocket", color: C.violet, tags: ["Windows", "Auto-update"], desc: "The latest generation of the Nexus desktop suite, shipped as a Windows installer with a built-in auto-update feed." },
   { slug: "nexus-profile-manager", kind: "DESKTOP APP", title: "Nexus Anty Profile Manager", icon: "users", color: C.cyan, tags: ["Windows", "Auto-update"], desc: "Create, organise and launch isolated browser profiles from a single dashboard, delivered with automatic updates." },
   { slug: "mailnexus-pro", kind: "DESKTOP APP", title: "MailNexus Pro", icon: "mail", color: C.pink, tags: ["Electron", "Auto-update"], desc: "Desktop email management application built on Electron, with seamless updates through electron-updater." },
   { slug: "gmailfinder-ai", kind: "DESKTOP APP", title: "GmailFinder AI", icon: "search", color: C.green, tags: ["Electron", "Python", "Playwright"], desc: "Desktop app pairing an Electron interface with a Python and Playwright automation backend." },
 
+  { slug: "troobiolabs", kind: "LIVE", live: true, title: "TROO Bio-Labs", icon: "flask", color: C.cyan, tags: ["Next.js 16", "WooCommerce", "Zustand"], desc: "Headless e-commerce storefront for research peptides — Next.js front end on a WooCommerce backend, with cart, checkout and 30 prerendered product pages." },
+  { slug: "lazar-couverture-27", kind: "LIVE", live: true, title: "Lazar Couverture 27", icon: "home", color: C.violet, tags: ["Next.js 16", "React 19", "SEO"], desc: "86-page website for a roofer in Les Andelys, every page prerendered at build time. No database, no CMS — content lives in code." },
+  { slug: "strategimmo", kind: "LIVE", live: true, title: "STRATEGiMMO", icon: "building", color: C.pink, tags: ["React Three Fiber", "GSAP", "Next.js 16"], desc: "Immersive 3D concept for a network of 11 estate agencies in Normandy — scroll-driven cinematic tour and a real 3D map of the region." },
+  { slug: "jourdain-metallerie", kind: "LIVE", live: true, title: "Jourdain Métallerie", icon: "tool", color: C.amber, tags: ["React Three Fiber", "GSAP", "Tailwind 4"], desc: "Immersive 3D website concept for a metalwork and locksmith company near Caen, with scroll-driven animation." },
+  { slug: "mypeptideguide", kind: "LIVE", live: true, title: "MyPeptideGuide.ai", icon: "book", color: C.green, tags: ["Next.js 16", "Vitest", "Playwright"], desc: "A free guide to the published evidence on peptides. Filters and explains the research; never recommends." },
+  { slug: "campus-revenu", kind: "LIVE", live: true, title: "Campus Revenu", icon: "cap", color: "#60A5FA", tags: ["Next.js", "Supabase", "TanStack Query"], desc: "Task-based income platform for students in France, with admin tools, task review and an audit log." },
   { slug: "couverture-jjm", kind: "LIVE", live: true, title: "Couverture J.J.M", icon: "home", color: C.amber, tags: ["Next.js 16", "Tailwind 4", "Framer Motion"], desc: "Lead-generation website for a French roofing and carpentry company in Fréjus. Live at couverturejjm.com." },
   { slug: "koron-podolsky", kind: "LIVE", live: true, title: "Koron & Podolsky, LLP", icon: "scale", color: "#60A5FA", tags: ["Next.js 16", "TypeScript"], desc: "Website for a firm of trial attorneys — clear practice areas, credibility-first design and fast page loads." },
   { slug: "peptidetracker", kind: "LIVE", live: true, title: "PeptideTracker", icon: "activity", color: C.pink, tags: ["Next.js", "TypeScript"], desc: "Doses, labs and recovery on one timeline. Marketing site and graded compound library." },
   { slug: "jardins-val-doise", kind: "LIVE", live: true, title: "Les Jardins du Val-d'Oise", icon: "leaf", color: C.green, tags: ["Next.js", "TypeScript", "SEO"], desc: "Showcase site for a tree-surgery and landscaping business serving Pontoise, Cergy and the Val-d'Oise." },
-  { slug: "ll-couverture", kind: "LIVE", live: true, title: "L.L Couverture", icon: "home", color: C.cyan, tags: ["Next.js 16", "React 19"], desc: "Showcase website for a roofer and carpenter in Arpajon, built to turn local searches into enquiries." },
-  { slug: "location-benne", kind: "CLIENT WORK", title: "Location Benne Expresse", icon: "truck", color: C.violet, tags: ["Next.js 15", "TypeScript", "SEO"], desc: "SEO-focused showcase site for a skip-hire company in Cergy, structured around local search intent." },
 ];
 
 /* ---------------------------------------------------------------- contact */
@@ -499,9 +509,9 @@ write("assets/footer.svg", footer());
   ["about", "01", "About", "Who I am and how I work"],
   ["services", "02", "What I Do", "Six things I get hired for"],
   ["stack", "03", "Tech Stack", "Tools I ship production code with"],
-  ["opensource", "04", "Open Source", "Free tools and plugins I maintain"],
+  ["opensource", "04", "Open Source", "Plugins and tools used by thousands of sites"],
   ["desktop", "05", "Desktop Software", "Products with installers and auto-update"],
-  ["clients", "06", "Client Work", "Live websites built for real businesses"],
+  ["clients", "06", "Featured Work", "Live projects you can open right now"],
   ["activity", "07", "GitHub Activity", "Refreshed automatically every day"],
 ].forEach(([slug, n, t, s]) => write(`assets/h-${slug}.svg`, header(n, t, s)));
 

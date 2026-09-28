@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 588 286" width="588" height="286" role="img" aria-label="MD Task Tracker">
 <defs>
 <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#131C33"/><stop offset="1" stop-color="#0A1020"/></linearGradient>
-<linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></linearGradient>
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></linearGradient>
 <clipPath id="c"><rect width="588" height="272" rx="20"/></clipPath>
-<radialGradient id="gl"><stop offset="0" stop-color="#34D399" stop-opacity="1"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/></radialGradient>
+<radialGradient id="gl"><stop offset="0" stop-color="#60A5FA" stop-opacity="1"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></radialGradient>
 </defs>
 <style>
 .k{font:700 12.5px 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace;fill:#CBD5E1;letter-spacing:1px}
@@ -23,18 +23,18 @@
 <rect width="588" height="272" fill="url(#card)"/>
 <circle class="glow" cx="568" cy="-10" r="260" fill="url(#gl)"/>
 <rect width="588" height="3" fill="url(#top)"/>
-<rect x="28" y="30" width="52" height="52" rx="15" fill="#34D399" fill-opacity=".14" stroke="#34D399" stroke-opacity=".5"/>
-<g transform="translate(42 44)"><path d="M9 11l3 3L22 4 M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11" fill="none" stroke="#34D399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="28" y="30" width="52" height="52" rx="15" fill="#60A5FA" fill-opacity=".14" stroke="#60A5FA" stroke-opacity=".5"/>
+<g transform="translate(42 44)"><path d="M9 11l3 3L22 4 M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
 <g transform="translate(453 42)">
 <rect width="107" height="28" rx="14" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".14"/>
 <text class="k" x="12" y="18.5">OPEN SOURCE</text>
 </g>
 <text class="t" x="28" y="122">MD Task Tracker</text>
 <text class="d" x="28" y="152">Turn any Markdown file into a clickable task tracker. Portable</text><text class="d" x="28" y="176">Windows app — ticks write straight back into the .md file.</text>
-<g transform="translate(28 220)"><rect width="105" height="28" rx="14" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".35"/><text class="tg" x="52.5" y="18.5" text-anchor="middle">JavaScript</text></g><g transform="translate(141 220)"><rect width="81" height="28" rx="14" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".35"/><text class="tg" x="40.5" y="18.5" text-anchor="middle">Windows</text></g>
+<g transform="translate(28 220)"><rect width="105" height="28" rx="14" fill="#60A5FA" fill-opacity=".1" stroke="#60A5FA" stroke-opacity=".35"/><text class="tg" x="52.5" y="18.5" text-anchor="middle">JavaScript</text></g><g transform="translate(141 220)"><rect width="81" height="28" rx="14" fill="#60A5FA" fill-opacity=".1" stroke="#60A5FA" stroke-opacity=".35"/><text class="tg" x="40.5" y="18.5" text-anchor="middle">Windows</text></g>
 <g transform="translate(536 234)">
-<circle r="17" fill="#34D399" fill-opacity=".14" stroke="#34D399" stroke-opacity=".5"/>
-<g class="arrow"><path d="M-7 0h12 M1 -5l5 5-5 5" fill="none" stroke="#34D399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<circle r="17" fill="#60A5FA" fill-opacity=".14" stroke="#60A5FA" stroke-opacity=".5"/>
+<g class="arrow"><path d="M-7 0h12 M1 -5l5 5-5 5" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
 </g>
 <rect x=".75" y=".75" width="586.5" height="270.5" rx="20" fill="none" stroke="#243049" stroke-width="1.5"/>
 </g>
